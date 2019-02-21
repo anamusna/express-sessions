@@ -19,6 +19,7 @@
   "homepage": "https://github.com/anamusna/express-sessions#readme",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
   }
 }
